@@ -7,7 +7,7 @@ If you find anything missing, file [an issue on GitHub](https://github.com/Kampf
 ## Games that use DataStore2
 - [Dungeon Quest](https://www.roblox.com/games/2414851778/Dungeon-Quest) - 2.1B+ visits
 - [Zombie Strike](https://www.roblox.com/games/3759927663/Zombie-Strike) - 226.0M+ visits
-- [Baldi's Basics](https://www.roblox.com/games/1823470443/Baldis-Basics) - 170M+ visits
+- [Baldi's Basics](https://www.roblox.com/games/1823470443/Baldis-Basics) - 181.1M+ visits
 - [ZOぞ](https://www.roblox.com/games/6678877691/ZO) - 83M+ visits
 - [Corridor Kawaii](https://www.roblox.com/games/6154244609/Corridor-Kawaii) - 59.5M+ visits
 - [Fairy World](https://www.roblox.com/games/1817078882/Fairy-World) - 17.8M+ visits
